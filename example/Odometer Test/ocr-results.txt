@@ -1,0 +1,34 @@
+=== 20260828_081114.jpg ===
+Best PSM: PSM 6 (block)
+Confidence: 31.0%
+Text: 4 1 5
+5
+1
+8 1
+25
+7 3
+3
+1
+
+=== 20260828_081119.jpg ===
+Best PSM: PSM 6 (block)
+Confidence: 25.0%
+Text: 2
+4
+4 1 1
+1
+3
+2
+8
+9 20
+9 0
+8
+2
+6
+7
+7
+
+=== Cropped.jpg ===
+Best PSM: PSM 6 (block)
+Confidence: 0.0%
+Text: 11456

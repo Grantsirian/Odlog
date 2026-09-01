@@ -1,0 +1,16 @@
+{
+  "name": "odometer-ocr-poc",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node ocr.js"
+  },
+  "dependencies": {
+    "sharp": "^0.33.5",
+    "tesseract.js": "^5.1.1"
+  },
+  "allowScripts": {
+    "tesseract.js@5.1.1": true,
+    "sharp@0.33.5": true
+  }
+}
